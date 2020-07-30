@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(117, 82, 211);
+    /*background-color:#f3b304; */
+}
+
+.container {
+    margin-bottom: 200px;
+}
+
+.nav-link {
+    color:black;
+}
+
