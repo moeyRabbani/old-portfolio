@@ -57,3 +57,34 @@ h6 {
     color: white;
 }
 
+.test-post {
+    color: rgb(75, 72, 72);
+    font-size: small;
+}
+
+.test-cmnt {
+    font-style: italic;
+}
+
+.proj-name {
+   
+   border: none;
+   
+   
+    background-image: linear-gradient(to right,  rgb(236, 167, 63) 0% , rgb(192, 131, 0) 100% );
+    
+    box-shadow: 5px 5px 10px rgb(221, 183, 15);
+
+    
+}
+.proj-name h5 {
+    color:grey;
+    text-align: center;
+    font-family: 'Quattrocento', serif;
+}
+
+.proj-name-text {
+    padding-bottom: 0px;
+    padding-top: 10px;
+    border: none;
+}
