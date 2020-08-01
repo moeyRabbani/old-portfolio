@@ -1,128 +1,56 @@
 body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #ffffff;
-
-}
-h1{
-    font-size: 50px;
-}
-.name-highlight {
-    color: #F98726;
-}
-.container {
-    width: 35%;
-    margin: 5%;
-    display: inline-block;
-    overflow: hidden;
-   /*border: 1px solid red; */
-    
-}
-.container img{
-  
-    width: 100%;
-    
-    
-}
-p a i{
-    
-    color: #F98726;
-    font-size: 25px;
-    width: 50px;
-    background: #ffffff;
-    cursor: pointer;
-    padding: 5px;
-  }
-
- 
-
- #bio {
-     width: 40%;
-     padding-bottom: 10%;
- } 
-
- .proj {
-     width: 31%;
-     margin: 1%;
-
-     
- }
- .projdiv {
-     margin: 5%;
- }
-
-.proj-head {
-    text-align: center;
-    padding-bottom: 35px;
-}
-
-
-
-.sec2 {
-    margin-bottom: 70px;
-}
-
-
-
-#test {
-    text-align: center;
-}
-
-#bio a {
-    text-decoration: none;
-    background-image: linear-gradient(45deg, #F98726, rgb(11, 10, 100));
-    padding: 5px 10px;
-    border-radius: 5px;
-    color: #ffffff;
-    font-weight: 500;
-
-}
-
-.testpara {
-    
-    display: inline-block;
-    overflow: hidden;
-    height: 100%;
-    width: 100%;
-    padding-top: 50px;
-    background-color: #F98726;
-}
-.testpara img {
-    height: 80px;
-    width: 80px;
-    
-    border-radius: 50%;
-    border: 1px solid #040f50;
+   /* background-color: rgb(117, 82, 211); */
+    background-color:#f3b304; 
    
 }
 
-.testname {
-    padding: 0;
-    margin: 0;
-}
-.testpos {
-    margin: 0;
-    padding: 0;
-    color: grey;
-    font-size: 12px;
-}
-.testcom{
-    padding-top: 10px;
-    font-style: italic;
-    color: #ffffffce;
-    font-size: 15px;
+span {color:#38374e;}
+
+.container {
+    margin-bottom: 200px;
 }
 
-.contact {
+.nav-link {
+    color:black;
+}
+
+.text-middle {
     text-align: center;
-    color: #ffffff;
-    padding: 5px 0;
-    background-image: linear-gradient(45deg, #F98726, rgb(224, 142, 34));
-    margin: 8% 30%;
+    line-height: 1.6;
+    
+}
+
+footer{
+    text-align: center;
+    
+}
+.card-body {
+    background-image: linear-gradient(45deg,  rgb(236, 167, 63) 0% , rgb(192, 131, 0) 100% );
+   border-radius: 10px;
+    border: none;
+}
+
+.card-body-gradiant {
+    border: none;
     border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(221, 183, 15);
 }
 
-footer {
-    text-align: center;
-    color: grey;
-    font-size: 12px;
+.card-bg {
+    border: none;
+border-radius: 10px;
+background: none;
+}
+
+h1, h2, h5, a {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Quattrocento', serif;
+}
+
+h6 {
+    font-family: 'Quattrocento', serif;
+    font-weight: 700;
 }
