@@ -7,12 +7,9 @@ body {
 span {color:#38374e;}
 
 .container {
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
-.nav-link {
-    color:black;
-}
 
 .text-middle {
     text-align: center;
@@ -44,6 +41,7 @@ background: none;
 
 h1, h2, h5, a {
     font-family: 'Oswald', sans-serif;
+    color: white;
 }
 
 p {
@@ -54,3 +52,8 @@ h6 {
     font-family: 'Quattrocento', serif;
     font-weight: 700;
 }
+
+.nav-link {
+    color: white;
+}
+
